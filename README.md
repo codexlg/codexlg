@@ -30,8 +30,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing and reverse engineering.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles, and experiment with new cheat development techniques.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kavinskyv)
 
 ---
 

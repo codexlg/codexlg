@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/ZfCcSP0.gif" width="200" height="200"/>
   <div id="badges">
-    <a href="your-discord-URL">
+    <a href="https://discord.com/users/1277056085848752182">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/watch?v=hQ8BO8n1604">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-telegram-URL">
+    <a href="https://t.me/kavinskyv">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
